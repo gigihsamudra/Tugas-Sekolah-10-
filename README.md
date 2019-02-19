@@ -49,11 +49,11 @@ hasil Latihan 6
 hasil Halaman Login
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-10-/blob/master/Tugas.PNG)
 
-hasil Do - While
+hasil Perulangan Do - While
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-10-/blob/master/do-while.PNG)
-hasil For
+hasil Perulangan For
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-10-/blob/master/for.PNG)
-hasil Foreach
+hasil Perulangan Foreach
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-10-/blob/master/foreach.PNG)
-hasil While
+hasil Perulangan While
 ![alt text](https://github.com/gigihsamudra/Tugas-Sekolah-10-/blob/master/while.PNG)
